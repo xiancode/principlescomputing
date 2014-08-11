@@ -1,4 +1,4 @@
 principlescomputing
 ===================
 
-Principles of Computing
+mini project of Cousera POC(Principles of Computing) class 
